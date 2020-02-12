@@ -1,5 +1,5 @@
 {
-    "name": "phtamas/yii2-imageprocessor",
+    "name": "vladimir-alekseev-go/yii2-imageprocessor",
     "description": "Configurable image processing for Yii2",
     "keywords": [
         "yii2",
@@ -19,6 +19,9 @@
         {
             "name": "Papp-Horváth Tamás",
             "email": "phtamas@gmail.com"
+        },
+        {
+            "name": "Alekseev Vladimir"
         }
     ],
     "minimum-stability": "stable",
